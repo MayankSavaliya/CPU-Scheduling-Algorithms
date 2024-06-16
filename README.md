@@ -32,7 +32,7 @@ To compile and run the program, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/CPU-Scheduling-Algorithms.git
+    git clone https://github.com/MayankSavaliya/CPU-Scheduling-Algorithms.git
     ```
 
 2. Navigate to the project directory:
